@@ -5,6 +5,7 @@ This is a version of the source-selector used to manage ground systems, main bat
 Please look at the JPG files for visuals of the board
 
 Features: 
+<br>
 Overvoltage and overcurrent protection 
 Keylock switches 
 Passive, seamless switching between power sources in the event of power failure
