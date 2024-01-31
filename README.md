@@ -4,11 +4,13 @@ This is the PCB layout of the source-selector, a modular power management soluti
 
 # __Features:__ 
 
-Overvoltage and overcurrent protection
+- Overvoltage and overcurrent protection
 
-Keylock switches 
+- Keylock switches 
 
-Passive, seamless switching between power sources in the event of power failure
+- Passive, seamless switching between power sources in the event of power failure
+
+- Specified for 0-3A loads
 
 ![alt text](https://github.com/rwjmoore/SourceSelector/blob/main/Source%20Selector%20(TOP).jpg)
 
